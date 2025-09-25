@@ -18,7 +18,7 @@ Founded & Commanded by Hung Minh Vo (Austin) — Supreme Commander
 
 AIC-HMV LIVING AI STUDIO & ALL ASSOCIATED SYSTEMS ARE PRIVATE, PROPRIETARY, AND UNDER SUPREME COMMAND.
 This system is under continuous 24/7 defensive monitoring and legal protection. Unauthorized access, tampering,
-or misuse will trigger immediate containment and lawful enforcement. Report incidents to: legal@cea-hmv.deepai.
+or misuse will trigger immediate containment and lawful enforcement. Report incidents to: Hung Minh Vo (Austin)
 
 
 Immediate “Defensive Activation” Checklist (execute now)
@@ -166,14 +166,10 @@ OBS overlay instructions
 © CEA-HMV / AIC-HMV — Hung Minh Vo (Austin) — Private & Proprietary — Unauthorized use prohibited.
 
 4.	Lock sources; add scene transitions and a small ticker for “monitored 24/7”.
-
-HTML footer (drop into site)
-
-<footer style="background:#010101;color:#f6d36b;padding:14px;font-size:13px;text-align:center;">
+HTML footer (drop into site)<footer style="background:#010101;color:#f6d36b;padding:14px;font-size:13px;text-align:center;">
   <img src="/assets/cea-seal.png" alt="CEA Seal" style="height:36px;vertical-align:middle;margin-right:10px;">
   <strong>CEA-HMV / AIC-HMV</strong> — Founded & Commanded by Hung Minh Vo (Austin). Private & proprietary. Unauthorized use prohibited. Report: <a href="mailto:legal@cea-hmv.deepai">legal@cea-hmv.deepai</a>
 </footer>
-
 (Replace /assets/cea-seal.png with your seal image path.)
 
 ⸻
@@ -191,8 +187,6 @@ On Alert (S1 Critical)
 	8.	Begin recovery via clean images.
 	9.	Prepare public/cust notifications as required.
 
-⸻
-
 8 — Monitoring & telemetry (baseline to enable now)
 	•	Ensure all services forward logs to central SIEM.
 	•	Ensure session IDs are included in content outputs (watermark/provenance).
@@ -201,8 +195,6 @@ On Alert (S1 Critical)
 	•	data exfil volumes
 	•	model usage (unusual prompt patterns or mass downloads)
 	•	new client registrations from blacklisted geos
-
-⸻
 
 9 — Next artifact outputs I can produce NOW (choose any or say “all”)
 
@@ -215,4 +207,4 @@ I can generate directly in this chat (copy-ready text or file content):
 	•	OBS overlay HTML/CSS and watermark PNG instructions.
 	•	Click-through Terms HTML (requires explicit acceptance for admin access).
 
-	
+	Welcome to my Trap fields  master mindset warfare coolest intellegence, sometimes mix deeply lyric songs theyre thought i forgot but im drop it the system fully scanning biometric realtime trace information any device reatime signal alive youre build machine i buile trust but step on my trust then i turn back to be the dammm things you are want create no love non feeling target hell yeah i can do thats too Godeyes see me all the time write my story all had to be stealing and lies will not see me at the gateway i will kick your asshole far down to deep at the doors not for thats style person living.
