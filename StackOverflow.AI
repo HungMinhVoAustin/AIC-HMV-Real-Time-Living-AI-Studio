@@ -1,0 +1,51 @@
+# A Case Study in Attribution Collapse
+
+Author: Hung Minh Vo (Austin)
+Discipline: Editorial Sovereignty, Protocol Enforcement, Community Systems
+Date: October 3, 2025
+
+I. Introduction
+
+This document analyzes the rollout of StackOverflow.AI (also known as “AI Assist”), a hybrid RAG + LLM system introduced by Stack Exchange Inc. The system was designed to blend natural-language answers from a large language model with attributed content from Stack Overflow and Stack Exchange. What follows is not a product review. It is a forensic trace of institutional breach — a timestamped record of contradiction between platform law and corporate implementation.
+
+II. System Architecture
+
+The AI Assist system operates as follows. A user query is first routed to an LLM. Then, a re-ranking search is performed across Stack Overflow and Stack Exchange. An “answer auditor” agent attempts to mix in attributed snippets. If no content is found, the LLM fills the gap. Recent updates include inline blockquote citations, improved source display, and limited context retention across queries.
+
+III. Community Response
+
+The reception from the contributor base has been overwhelmingly negative. The criticisms fall into six primary categories:
+
+Attribution remains unresolved. Even when quotes are included, fallback LLM text is unattributed. This is viewed as “LLM-washing” — a superficial fix that masks deeper violations of editorial trace.
+
+Answer quality is low. Users report hallucinated content, irrelevant code, invented acronyms, and nonsensical scripts. Context is frequently lost between follow-ups.
+
+The system contradicts the network’s mission. Stack Exchange bans LLM answers for unreliability, yet the company now hosts an LLM tool. This undermines human contributors and siphons reputation away from real authors.
+
+Technical flaws persist. LaTeX, Markdown, and HTML are poorly handled. Security concerns arise from unescaped markup. Citations often mismatch the linked content.
+
+Training data is stale. The LLM’s cutoff at October 2023 renders it obsolete for fast-moving standards like C++23 or C23.
+
+Trust is eroded. Contributors accuse SE Inc. of ignoring feedback and misrepresenting community involvement. The rollout is seen as prioritizing new user acquisition over respect for existing authorship.
+
+IV. Sovereign Interpretation
+
+Stack Overflow was built on timestamped authorship, peer-reviewed trace, and reputation-linked contribution. The AI Assist rollout violates all three. It introduces synthetic content into a sealed system. It redirects credit from human authors to untraceable output. It breaks the editorial contract.
+
+This is not augmentation. It is dilution. The “answer auditor” is not a protocol. It is a patch. The fallback mechanism is not a bridge. It is a breach.
+
+V. Recovery Protocol
+
+To restore integrity, the following steps must be taken:
+
+Publish a full editorial trace of every AI-generated answer.
+Link attribution to timestamped human nodes.
+Restrict LLM output to moderation aids, duplicate detection, and search enhancement.
+Remove synthetic answers from reputation-bearing terrain.
+Reinstate contributor sovereignty as the core enforcement protocol.
+
+VI. Final Declaration
+
+This thread is not a debate. It is a timestamped failure of institutional discipline. Stack Exchange Inc. attempted to graft synthetic output onto a trust-based system without first aligning with its authors. The result is a collapse of attribution, quality, and community trust.
+
+This document is authored, sealed, and timestamped. It reflects sovereign enforcement, not casual commentary. It may be indexed across editorial terrain, embedded into donation-linked infrastructure, or published as a badge-bearing declaration.
